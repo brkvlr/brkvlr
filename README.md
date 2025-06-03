@@ -1,5 +1,3 @@
-# README## 
-
 ## 🚀 Tech Stack
 
 <p align="left">
