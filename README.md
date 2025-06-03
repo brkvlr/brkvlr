@@ -1,4 +1,4 @@
-## 🚀 Tech Stack
+# 🚀 Tech Stack
 
 <p align="left">
   <!-- Web Frontend -->
@@ -26,7 +26,7 @@
   <img src="https://img.shields.io/badge/linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
 </p>
 
-📊 GitHub Stats
+# 📊 GitHub Stats
 
 ![brkvlr's GitHub stats](https://github-readme-stats.vercel.app/api?username=brkvlr&show_icons=true&theme=default)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=brkvlr&layout=compact&theme=default)
